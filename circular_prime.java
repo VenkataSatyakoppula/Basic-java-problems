@@ -1,6 +1,6 @@
 //CSE 1007 Java programming Excercise-1 
 
-//problem 5 prime number within a range
+//problem 4 prime number within a range
 import java.lang.Math;
 import java.util.Scanner;
 public class circular_prime {

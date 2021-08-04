@@ -1,6 +1,6 @@
 //CSE 1007 Java programming Excercise-1 
 
-//problem 4 prime number within a range
+//problem 3 prime number within a range
 import java.util.Scanner;
 public class sum_digits {
     static int sum_of_digits(int num){
